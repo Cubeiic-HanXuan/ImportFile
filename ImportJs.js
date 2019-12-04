@@ -1,6 +1,6 @@
 /**
  * js|css等静态资源预加载
- * @author chenDb
+ * @author HanXuan
  */
 (function (global, factory) {
     typeof exports === 'object' && typeof module !== 'undefined' ? module.exports = factory() :
